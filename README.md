@@ -1,3 +1,3 @@
 # Drad.io.demo
 
-![](./dd/Untitled Diagram.png)
+![](dd/Untitled Diagram.png)
